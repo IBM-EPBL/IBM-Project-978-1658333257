@@ -6,7 +6,7 @@
 
 | Industry Mentor(s) Name | Faculty Mentor(s) Name  | Faculty Evaluator(s) Name |
 | :---         |     :---:      |          ---: |
-| Divya       |  R.Senthilkumar  | MS.Barathi     |
+| Divya       |  R.Senthilkumar  | S.Barathi     |
 
 
 
@@ -44,7 +44,9 @@ The project aims to develop a system that converts the sign language into a huma
 
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40px" width="40px" /></a>
 
-## Getting Started
+## Contacts 
+
+Harish V - harishkanmani2002@gmail.com , 8072435161
 
 
 
