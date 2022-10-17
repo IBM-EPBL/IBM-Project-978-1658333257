@@ -2,6 +2,24 @@
     
 # Real-Time Communication System Powered by AI for Specially Abled
 
+
+
+| Industry Mentor(s) Name | Faculty Mentor(s) Name  | Faculty Evaluator(s) Name |
+| :---         |     :---:      |          ---: |
+| Divya       |  R.Senthilkumar  | MS.Barathi     |
+
+
+
+
+| Team Lead| Harish V |
+| ------------- | ------------- |
+|  Team Member 1 | Hinthumethran K N  |
+|  Team Member 2   | Mohan S  |
+|  Team Member 3   | Srekhaviyan A S  |
+
+
+
+
 ## Table of Contents
 
 - [Description](#description)
