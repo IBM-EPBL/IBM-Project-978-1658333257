@@ -38,9 +38,6 @@ The project aims to develop a system that converts the sign language into a huma
 
 
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/112475771/196264565-7f2be9e4-40f9-4dbc-a9a4-acdfb67efed5.png)
-
 
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40px" width="40px" /></a>
 
